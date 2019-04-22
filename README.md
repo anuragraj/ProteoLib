@@ -1,6 +1,7 @@
 # ProteoLib
 
   ## MS Search algorithms
+  * [OMSSA](https://github.com/anuragraj/ProteoLib/blob/master/OMSSA.md)  
   * [MSFragger](https://github.com/anuragraj/ProteoLib/blob/master/MSFragger.md)
   * [TopMG](https://github.com/anuragraj/ProteoLib/blob/master/TopMG.md)
   * [ProSight PTM](https://github.com/anuragraj/ProteoLib/blob/master/ProSight%20PTM.md)
