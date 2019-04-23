@@ -7,6 +7,9 @@
   * [ProSight PTM](https://github.com/anuragraj/ProteoLib/blob/master/ProSight%20PTM.md)
   * [MS-Align-E](https://github.com/anuragraj/ProteoLib/blob/master/MS-Align-E.md)
 
+  ## Quantification tools
+  * [PIQED](https://github.com/anuragraj/ProteoLib/blob/master/PIQED.md)
+
   ## Repository for MS data
 
   * [PRIDE](https://www.ebi.ac.uk/pride/archive/)
