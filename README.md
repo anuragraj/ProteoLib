@@ -1,22 +1,22 @@
 # ProteoLib
 
   ## MS Search algorithms
-  * [MassWiz](https://github.com/anuragraj/ProteoLib/blob/master/MassWiz.md)  
-  * [OMSSA](https://github.com/anuragraj/ProteoLib/blob/master/OMSSA.md)  
-  * [X!Tandem](https://github.com/anuragraj/ProteoLib/blob/master/tandem.md)
-  * [MSFragger](https://github.com/anuragraj/ProteoLib/blob/master/MSFragger.md)
-  * [TopMG](https://github.com/anuragraj/ProteoLib/blob/master/TopMG.md)
-  * [ProSight PTM](https://github.com/anuragraj/ProteoLib/blob/master/ProSight%20PTM.md)
-  * [MS-Align-E](https://github.com/anuragraj/ProteoLib/blob/master/MS-Align-E.md)
+  * [MassWiz](https://github.com/anuragraj/ProteoLib/blob/master/SearchAlgorithms/MassWiz.md)  
+  * [OMSSA](https://github.com/anuragraj/ProteoLib/blob/master/SearchAlgorithms/OMSSA.md)  
+  * [X!Tandem](https://github.com/anuragraj/ProteoLib/blob/master/SearchAlgorithms/tandem.md)
+  * [MSFragger](https://github.com/anuragraj/ProteoLib/blob/master/SearchAlgorithms/MSFragger.md)
+  * [TopMG](https://github.com/anuragraj/ProteoLib/blob/master/SearchAlgorithms/TopMG.md)
+  * [ProSight PTM](https://github.com/anuragraj/ProteoLib/blob/master/SearchAlgorithms/ProSight%20PTM.md)
+  * [MS-Align-E](https://github.com/anuragraj/ProteoLib/blob/master/SearchAlgorithms/MS-Align-E.md)
 
   ## Quantification tools
-  * [PIQED](https://github.com/anuragraj/ProteoLib/blob/master/PIQED.md)
+  * [PIQED](https://github.com/anuragraj/ProteoLib/blob/master/Quantifications/PIQED.md)
 
   ## Repository for MS data
 
-  * [PRIDE](https://www.ebi.ac.uk/pride/archive/)
-  * [MassIVE](https://massive.ucsd.edu/ProteoSAFe/static/massive.jsp)
-  * [jPOST](https://jpostdb.org/)
+  * [PRIDE](https://github.com/anuragraj/ProteoLib/blob/master/MSRepos/PRIDE.md)
+  * [MassIVE](https://github.com/anuragraj/ProteoLib/blob/master/MSRepos/MassIVE.md)
+  * [jPOST](https://github.com/anuragraj/ProteoLib/blob/master/MSRepos/jPOST.md)
 
   ## MS file formats
   * [mzML](https://github.com/anuragraj/ProteoLib/blob/master/mzML.md)  
