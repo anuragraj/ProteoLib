@@ -24,3 +24,6 @@
   * [mzIdentML](https://github.com/anuragraj/ProteoLib/blob/master/mzIdentML.md)  
   * [MGF](https://github.com/anuragraj/ProteoLib/blob/master/MGF.md)  
   * [PEFF](https://github.com/anuragraj/ProteoLib/blob/master/PEFF.md)  
+  
+  ## Proteogenomics
+  * [Proteogenomics](https://github.com/anuragraj/ProteoLib/blob/master/Proteogenomics.md)
